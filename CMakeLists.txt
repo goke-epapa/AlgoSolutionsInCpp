@@ -3,4 +3,4 @@ project(ds_in_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(ds_in_cpp codility/genome_range_query.cpp)
+add_executable(ds_in_cpp codility/distinct.cpp)
