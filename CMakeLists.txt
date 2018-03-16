@@ -3,4 +3,4 @@ project(ds_in_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(ds_in_cpp codility/triangle.cpp)
+add_executable(ds_in_cpp codility/max_product_of_three.cpp)
