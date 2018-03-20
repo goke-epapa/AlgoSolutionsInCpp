@@ -3,4 +3,4 @@ project(ds_in_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(ds_in_cpp misc/factorial_trailing_zeroes.cpp)
+add_executable(ds_in_cpp codility/brackets.cpp)
